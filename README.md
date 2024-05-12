@@ -26,14 +26,15 @@ You may explore `tools` directory, which contains tools required for generating 
 `ios_devices_parser` is a tool used to parse iOS devices from table provided at https://www.ios-resolution.com
 
 To use this tool, follow these steps:
-    - Change directory to `tools/ios_devices_parser` with `cd tools/ios_devices_parser`
-    - Initialize and activate an empty Python virtual environment with `python -m venv venv && source venv/bin/activate`
-    - Install Python dependencies with `pip install -r requirements.txt`
-    - Run script using `python ios_devices_parser.py`
-    - Generated JSON file should be placed in `generated` directory
+
+- Change directory to `tools/ios_devices_parser` with `cd tools/ios_devices_parser`
+- Initialize and activate an empty Python virtual environment with `python -m venv venv && source venv/bin/activate`
+- Install Python dependencies with `pip install -r requirements.txt`
+- Run script using `python ios_devices_parser.py`
+- Generated JSON file should be placed in `generated` directory
 
 ## TODO
 
-[ ] Native Android code testing
-[ ] Example project testing
-[ ] Automated testing and deployment
+- [ ] Native Android code testing
+- [ ] Example project testing
+- [ ] Automated testing and deployment
