@@ -1,0 +1,1434 @@
+[
+  {
+    "device": "iPhone 15 Pro Max",
+    "logicalWidth": 430.0,
+    "logicalHeight": 932.0,
+    "width": 1290.0,
+    "height": 2796.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.7,
+    "releaseDate": "2023-09-22",
+    "hardware_names": [
+      "iPhone16,2"
+    ]
+  },
+  {
+    "device": "iPhone 15 Pro",
+    "logicalWidth": 393.0,
+    "logicalHeight": 852.0,
+    "width": 1179.0,
+    "height": 2556.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2023-09-22",
+    "hardware_names": [
+      "iPhone16,1"
+    ]
+  },
+  {
+    "device": "iPhone 15 Plus",
+    "logicalWidth": 430.0,
+    "logicalHeight": 932.0,
+    "width": 1290.0,
+    "height": 2796.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.7,
+    "releaseDate": "2023-09-22",
+    "hardware_names": [
+      "iPhone15,5"
+    ]
+  },
+  {
+    "device": "iPhone 15",
+    "logicalWidth": 393.0,
+    "logicalHeight": 852.0,
+    "width": 1179.0,
+    "height": 2556.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2023-09-22",
+    "hardware_names": [
+      "iPhone15,4"
+    ]
+  },
+  {
+    "device": "Apple Watch Ultra 2",
+    "logicalWidth": 205.0,
+    "logicalHeight": 251.0,
+    "width": 410.0,
+    "height": 502.0,
+    "ppi": 338.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.919,
+    "releaseDate": "2023-09-22",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 9 Large",
+    "logicalWidth": 198.0,
+    "logicalHeight": 242.0,
+    "width": 396.0,
+    "height": 484.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.901,
+    "releaseDate": "2023-09-22",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 9 Small",
+    "logicalWidth": 176.0,
+    "logicalHeight": 215.0,
+    "width": 352.0,
+    "height": 430.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.691,
+    "releaseDate": "2023-09-22",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((6th generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2022-10-26",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((6th generation) 11\")",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1194.0,
+    "width": 1668.0,
+    "height": 2388.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 11.0,
+    "releaseDate": "2022-10-26",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (10th generation)",
+    "logicalWidth": 820.0,
+    "logicalHeight": 1180.0,
+    "width": 1640.0,
+    "height": 2360.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.9,
+    "releaseDate": "2022-10-26",
+    "hardware_names": [
+      "iPad13,18",
+      "iPad13,19"
+    ]
+  },
+  {
+    "device": "iPhone 14 Plus",
+    "logicalWidth": 428.0,
+    "logicalHeight": 926.0,
+    "width": 1284.0,
+    "height": 2778.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.7,
+    "releaseDate": "2022-10-07",
+    "hardware_names": [
+      "iPhone14,8"
+    ]
+  },
+  {
+    "device": "Apple Watch Ultra",
+    "logicalWidth": 205.0,
+    "logicalHeight": 251.0,
+    "width": 410.0,
+    "height": 502.0,
+    "ppi": 338.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.919,
+    "releaseDate": "2022-09-23",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 14 Pro Max",
+    "logicalWidth": 430.0,
+    "logicalHeight": 932.0,
+    "width": 1290.0,
+    "height": 2796.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.7,
+    "releaseDate": "2022-09-16",
+    "hardware_names": [
+      "iPhone15,3"
+    ]
+  },
+  {
+    "device": "iPhone 14 Pro",
+    "logicalWidth": 393.0,
+    "logicalHeight": 852.0,
+    "width": 1179.0,
+    "height": 2556.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2022-09-16",
+    "hardware_names": [
+      "iPhone15,2"
+    ]
+  },
+  {
+    "device": "iPhone 14",
+    "logicalWidth": 390.0,
+    "logicalHeight": 844.0,
+    "width": 1170.0,
+    "height": 2532.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2022-09-16",
+    "hardware_names": [
+      "iPhone14,7"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 8 Large",
+    "logicalWidth": 198.0,
+    "logicalHeight": 242.0,
+    "width": 396.0,
+    "height": 484.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.901,
+    "releaseDate": "2022-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 8 Small",
+    "logicalWidth": 176.0,
+    "logicalHeight": 215.0,
+    "width": 352.0,
+    "height": 430.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.691,
+    "releaseDate": "2022-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch SE (2nd) Large",
+    "logicalWidth": 184.0,
+    "logicalHeight": 224.0,
+    "width": 368.0,
+    "height": 448.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.757,
+    "releaseDate": "2022-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch SE (2nd) Small",
+    "logicalWidth": 162.0,
+    "logicalHeight": 197.0,
+    "width": 324.0,
+    "height": 394.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.549,
+    "releaseDate": "2022-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone SE (3rd generation)",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2022-03-08",
+    "hardware_names": [
+      "iPhone14,6"
+    ]
+  },
+  {
+    "device": "iPad Air ((5th generation))",
+    "logicalWidth": 820.0,
+    "logicalHeight": 1180.0,
+    "width": 1640.0,
+    "height": 2360.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.9,
+    "releaseDate": "2022-03-08",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 7 Large",
+    "logicalWidth": 198.0,
+    "logicalHeight": 242.0,
+    "width": 396.0,
+    "height": 484.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.901,
+    "releaseDate": "2021-10-15",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 7 Small",
+    "logicalWidth": 176.0,
+    "logicalHeight": 215.0,
+    "width": 352.0,
+    "height": 430.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.691,
+    "releaseDate": "2021-10-15",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Mini ((6th generation))",
+    "logicalWidth": 744.0,
+    "logicalHeight": 1133.0,
+    "width": 1488.0,
+    "height": 2266.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 8.3,
+    "releaseDate": "2021-09-24",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 13",
+    "logicalWidth": 390.0,
+    "logicalHeight": 844.0,
+    "width": 1170.0,
+    "height": 2532.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.06,
+    "releaseDate": "2021-09-14",
+    "hardware_names": [
+      "iPhone14,5"
+    ]
+  },
+  {
+    "device": "iPhone 13 mini",
+    "logicalWidth": 375.0,
+    "logicalHeight": 812.0,
+    "width": 1080.0,
+    "height": 2340.0,
+    "ppi": 476.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.42,
+    "releaseDate": "2021-09-14",
+    "hardware_names": [
+      "iPhone14,4"
+    ]
+  },
+  {
+    "device": "iPhone 13 Pro Max",
+    "logicalWidth": 428.0,
+    "logicalHeight": 926.0,
+    "width": 1284.0,
+    "height": 2778.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.68,
+    "releaseDate": "2021-09-14",
+    "hardware_names": [
+      "iPhone14,3"
+    ]
+  },
+  {
+    "device": "iPhone 13 Pro",
+    "logicalWidth": 390.0,
+    "logicalHeight": 844.0,
+    "width": 1170.0,
+    "height": 2532.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.06,
+    "releaseDate": "2021-09-14",
+    "hardware_names": [
+      "iPhone14,2"
+    ]
+  },
+  {
+    "device": "iPad (9th generation)",
+    "logicalWidth": 810.0,
+    "logicalHeight": 1080.0,
+    "width": 1620.0,
+    "height": 2160.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.2,
+    "releaseDate": "2021-09-14",
+    "hardware_names": [
+      "iPad12,1",
+      "iPad12,2"
+    ]
+  },
+  {
+    "device": "iPad Pro ((5th generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2021-05-21",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((5th generation) 11\")",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1194.0,
+    "width": 1668.0,
+    "height": 2388.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 11.0,
+    "releaseDate": "2021-05-21",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Air ((4th generation))",
+    "logicalWidth": 820.0,
+    "logicalHeight": 1180.0,
+    "width": 1640.0,
+    "height": 2360.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.9,
+    "releaseDate": "2020-10-23",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 12",
+    "logicalWidth": 390.0,
+    "logicalHeight": 844.0,
+    "width": 1170.0,
+    "height": 2532.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.06,
+    "releaseDate": "2020-10-13",
+    "hardware_names": [
+      "iPhone13,2"
+    ]
+  },
+  {
+    "device": "iPhone 12 mini",
+    "logicalWidth": 375.0,
+    "logicalHeight": 812.0,
+    "width": 1080.0,
+    "height": 2340.0,
+    "ppi": 476.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.42,
+    "releaseDate": "2020-10-13",
+    "hardware_names": [
+      "iPhone13,1"
+    ]
+  },
+  {
+    "device": "iPhone 12 Pro Max",
+    "logicalWidth": 428.0,
+    "logicalHeight": 926.0,
+    "width": 1284.0,
+    "height": 2778.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.68,
+    "releaseDate": "2020-10-13",
+    "hardware_names": [
+      "iPhone13,4"
+    ]
+  },
+  {
+    "device": "iPhone 12 Pro",
+    "logicalWidth": 390.0,
+    "logicalHeight": 844.0,
+    "width": 1170.0,
+    "height": 2532.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.06,
+    "releaseDate": "2020-10-13",
+    "hardware_names": [
+      "iPhone13,3"
+    ]
+  },
+  {
+    "device": "iPad (8th generation)",
+    "logicalWidth": 810.0,
+    "logicalHeight": 1080.0,
+    "width": 1620.0,
+    "height": 2160.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.2,
+    "releaseDate": "2020-09-18",
+    "hardware_names": [
+      "iPad11,6",
+      "iPad11,7"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 6 Large",
+    "logicalWidth": 184.0,
+    "logicalHeight": 224.0,
+    "width": 368.0,
+    "height": 448.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.757,
+    "releaseDate": "2020-09-18",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 6 Small",
+    "logicalWidth": 162.0,
+    "logicalHeight": 197.0,
+    "width": 324.0,
+    "height": 394.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.549,
+    "releaseDate": "2020-09-18",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch SE (1st) Large",
+    "logicalWidth": 184.0,
+    "logicalHeight": 224.0,
+    "width": 368.0,
+    "height": 448.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.757,
+    "releaseDate": "2020-09-18",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch SE (1st) Small",
+    "logicalWidth": 162.0,
+    "logicalHeight": 197.0,
+    "width": 324.0,
+    "height": 394.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.549,
+    "releaseDate": "2020-09-18",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone SE (2nd generation)",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2020-04-24",
+    "hardware_names": [
+      "iPhone12,8"
+    ]
+  },
+  {
+    "device": "iPad Pro ((4th generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2020-03-25",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((4th generation) 11\")",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1194.0,
+    "width": 1668.0,
+    "height": 2388.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 11.0,
+    "releaseDate": "2020-03-25",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (7th generation)",
+    "logicalWidth": 810.0,
+    "logicalHeight": 1080.0,
+    "width": 1620.0,
+    "height": 2160.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.2,
+    "releaseDate": "2019-09-25",
+    "hardware_names": [
+      "iPad7,11",
+      "iPad7,12"
+    ]
+  },
+  {
+    "device": "iPhone 11 Pro Max",
+    "logicalWidth": 414.0,
+    "logicalHeight": 896.0,
+    "width": 1242.0,
+    "height": 2688.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.46,
+    "releaseDate": "2019-09-20",
+    "hardware_names": [
+      "iPhone12,5"
+    ]
+  },
+  {
+    "device": "iPhone 11 Pro",
+    "logicalWidth": 375.0,
+    "logicalHeight": 812.0,
+    "width": 1125.0,
+    "height": 2436.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.85,
+    "releaseDate": "2019-09-20",
+    "hardware_names": [
+      "iPhone12,3"
+    ]
+  },
+  {
+    "device": "iPhone 11",
+    "logicalWidth": 414.0,
+    "logicalHeight": 896.0,
+    "width": 828.0,
+    "height": 1792.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2019-09-20",
+    "hardware_names": [
+      "iPhone12,1"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 5 Large",
+    "logicalWidth": 184.0,
+    "logicalHeight": 224.0,
+    "width": 368.0,
+    "height": 448.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.757,
+    "releaseDate": "2019-09-20",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 5 Small",
+    "logicalWidth": 162.0,
+    "logicalHeight": 197.0,
+    "width": 324.0,
+    "height": 394.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.549,
+    "releaseDate": "2019-09-20",
+    "hardware_names": []
+  },
+  {
+    "device": "iPod touch (7th generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2019-05-28",
+    "hardware_names": [
+      "iPod9,1"
+    ]
+  },
+  {
+    "device": "iPad Mini ((5th generation))",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 7.9,
+    "releaseDate": "2019-03-18",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Air ((3rd generation))",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1112.0,
+    "width": 1668.0,
+    "height": 2224.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.5,
+    "releaseDate": "2019-03-18",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((3rd generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2018-11-07",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((3rd generation) 11\")",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1194.0,
+    "width": 1668.0,
+    "height": 2388.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 11.0,
+    "releaseDate": "2018-11-07",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone XR",
+    "logicalWidth": 414.0,
+    "logicalHeight": 896.0,
+    "width": 828.0,
+    "height": 1792.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 6.06,
+    "releaseDate": "2018-10-26",
+    "hardware_names": [
+      "iPhone11,8"
+    ]
+  },
+  {
+    "device": "iPhone XS Max",
+    "logicalWidth": 414.0,
+    "logicalHeight": 896.0,
+    "width": 1242.0,
+    "height": 2688.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.46,
+    "releaseDate": "2018-09-21",
+    "hardware_names": [
+      "iPhone11,4",
+      "iPhone11,6"
+    ]
+  },
+  {
+    "device": "iPhone XS",
+    "logicalWidth": 375.0,
+    "logicalHeight": 812.0,
+    "width": 1125.0,
+    "height": 2436.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.85,
+    "releaseDate": "2018-09-21",
+    "hardware_names": [
+      "iPhone11,2"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 4 Large",
+    "logicalWidth": 184.0,
+    "logicalHeight": 224.0,
+    "width": 368.0,
+    "height": 448.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.757,
+    "releaseDate": "2018-09-21",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 4 Small",
+    "logicalWidth": 162.0,
+    "logicalHeight": 197.0,
+    "width": 324.0,
+    "height": 394.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.549,
+    "releaseDate": "2018-09-21",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (6th generation)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2018-03-27",
+    "hardware_names": [
+      "iPad7,5",
+      "iPad7,6"
+    ]
+  },
+  {
+    "device": "iPhone X",
+    "logicalWidth": 375.0,
+    "logicalHeight": 812.0,
+    "width": 1125.0,
+    "height": 2436.0,
+    "ppi": 458.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.85,
+    "releaseDate": "2017-11-03",
+    "hardware_names": [
+      "iPhone10,3",
+      "iPhone10,6"
+    ]
+  },
+  {
+    "device": "iPhone 8 Plus",
+    "logicalWidth": 414.0,
+    "logicalHeight": 736.0,
+    "width": 1080.0,
+    "height": 1920.0,
+    "ppi": 401.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.5,
+    "releaseDate": "2017-09-22",
+    "hardware_names": [
+      "iPhone10,2",
+      "iPhone10,5"
+    ]
+  },
+  {
+    "device": "iPhone 8",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2017-09-22",
+    "hardware_names": [
+      "iPhone10,1",
+      "iPhone10,4"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 3 Large",
+    "logicalWidth": 156.0,
+    "logicalHeight": 195.0,
+    "width": 312.0,
+    "height": 390.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2017-09-22",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 3 Small",
+    "logicalWidth": 156.0,
+    "logicalHeight": 170.0,
+    "width": 312.0,
+    "height": 340.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2017-09-22",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((2nd generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2017-06-13",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((2nd generation) 10.5\")",
+    "logicalWidth": 834.0,
+    "logicalHeight": 1112.0,
+    "width": 1668.0,
+    "height": 2224.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 10.5,
+    "releaseDate": "2017-06-13",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (5th generation)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2017-03-24",
+    "hardware_names": [
+      "iPad6,11",
+      "iPad6,12"
+    ]
+  },
+  {
+    "device": "iPhone 7 Plus",
+    "logicalWidth": 414.0,
+    "logicalHeight": 736.0,
+    "width": 1080.0,
+    "height": 1920.0,
+    "ppi": 401.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.5,
+    "releaseDate": "2016-09-16",
+    "hardware_names": [
+      "iPhone9,2",
+      "iPhone9,4"
+    ]
+  },
+  {
+    "device": "iPhone 7",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2016-09-16",
+    "hardware_names": [
+      "iPhone9,1",
+      "iPhone9,3"
+    ]
+  },
+  {
+    "device": "Apple Watch Series 2 Large",
+    "logicalWidth": 156.0,
+    "logicalHeight": 195.0,
+    "width": 312.0,
+    "height": 390.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2016-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 2 Small",
+    "logicalWidth": 156.0,
+    "logicalHeight": 170.0,
+    "width": 312.0,
+    "height": 340.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2016-09-16",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 1 Large",
+    "logicalWidth": 156.0,
+    "logicalHeight": 195.0,
+    "width": 312.0,
+    "height": 390.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2016-09-12",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch Series 1 Small",
+    "logicalWidth": 156.0,
+    "logicalHeight": 170.0,
+    "width": 312.0,
+    "height": 340.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2016-09-12",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone SE (1st generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2016-03-31",
+    "hardware_names": [
+      "iPhone8,4"
+    ]
+  },
+  {
+    "device": "iPad Pro ((1st generation) 9.7\u201d)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2016-03-31",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Pro ((1st generation) 12.9\")",
+    "logicalWidth": 1024.0,
+    "logicalHeight": 1366.0,
+    "width": 2048.0,
+    "height": 2732.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 12.9,
+    "releaseDate": "2015-11-11",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 6s Plus",
+    "logicalWidth": 414.0,
+    "logicalHeight": 736.0,
+    "width": 1080.0,
+    "height": 1920.0,
+    "ppi": 401.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.5,
+    "releaseDate": "2015-09-25",
+    "hardware_names": [
+      "iPhone8,2"
+    ]
+  },
+  {
+    "device": "iPhone 6s",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2015-09-25",
+    "hardware_names": [
+      "iPhone8,1"
+    ]
+  },
+  {
+    "device": "iPad mini 4",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 7.9,
+    "releaseDate": "2015-09-09",
+    "hardware_names": [
+      "iPad5,1",
+      "iPad5,2"
+    ]
+  },
+  {
+    "device": "iPod touch (6th generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2015-07-15",
+    "hardware_names": [
+      "iPod7,1"
+    ]
+  },
+  {
+    "device": "Apple Watch 1st (Series 0) Large",
+    "logicalWidth": 156.0,
+    "logicalHeight": 195.0,
+    "width": 312.0,
+    "height": 390.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2015-04-24",
+    "hardware_names": []
+  },
+  {
+    "device": "Apple Watch 1st (Series 0) Small",
+    "logicalWidth": 156.0,
+    "logicalHeight": 170.0,
+    "width": 312.0,
+    "height": 340.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 1.337,
+    "releaseDate": "2015-04-24",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad Air 2",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2014-10-22",
+    "hardware_names": [
+      "iPad5,3",
+      "iPad5,4"
+    ]
+  },
+  {
+    "device": "iPad mini 3",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 7.9,
+    "releaseDate": "2014-10-22",
+    "hardware_names": [
+      "iPad4,7",
+      "iPad4,8",
+      "iPad4,9"
+    ]
+  },
+  {
+    "device": "iPhone 6 Plus",
+    "logicalWidth": 414.0,
+    "logicalHeight": 736.0,
+    "width": 1080.0,
+    "height": 1920.0,
+    "ppi": 401.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 5.5,
+    "releaseDate": "2014-09-19",
+    "hardware_names": [
+      "iPhone7,1"
+    ]
+  },
+  {
+    "device": "iPhone 6",
+    "logicalWidth": 375.0,
+    "logicalHeight": 667.0,
+    "width": 750.0,
+    "height": 1334.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.7,
+    "releaseDate": "2014-09-19",
+    "hardware_names": [
+      "iPhone7,2"
+    ]
+  },
+  {
+    "device": "iPad mini 2",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 7.9,
+    "releaseDate": "2013-11-12",
+    "hardware_names": [
+      "iPad4,4",
+      "iPad4,5",
+      "iPad4,6"
+    ]
+  },
+  {
+    "device": "iPad Air",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2013-11-01",
+    "hardware_names": [
+      "iPad4,1",
+      "iPad4,2",
+      "iPad4,3"
+    ]
+  },
+  {
+    "device": "iPhone 5C",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2013-09-20",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 5S",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2013-09-20",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (4th generation)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2012-11-12",
+    "hardware_names": [
+      "iPad3,4",
+      "iPad3,5",
+      "iPad3,6"
+    ]
+  },
+  {
+    "device": "iPad mini",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 768.0,
+    "height": 1024.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 7.9,
+    "releaseDate": "2012-11-02",
+    "hardware_names": [
+      "iPad2,5",
+      "iPad2,6",
+      "iPad2,7"
+    ]
+  },
+  {
+    "device": "iPod touch (5th generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2012-10-11",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 5",
+    "logicalWidth": 320.0,
+    "logicalHeight": 568.0,
+    "width": 640.0,
+    "height": 1136.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 4.0,
+    "releaseDate": "2012-09-21",
+    "hardware_names": [
+      "iPhone5,1",
+      "iPhone5,2"
+    ]
+  },
+  {
+    "device": "iPad (3rd generation)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 1536.0,
+    "height": 2048.0,
+    "ppi": 264.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2012-03-16",
+    "hardware_names": [
+      "iPad3,1",
+      "iPad3,2",
+      "iPad3,3"
+    ]
+  },
+  {
+    "device": "iPhone 4S",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 640.0,
+    "height": 960.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2011-10-14",
+    "hardware_names": [
+      "iPhone4,1"
+    ]
+  },
+  {
+    "device": "iPad 2",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 768.0,
+    "height": 1024.0,
+    "ppi": 132.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2011-03-11",
+    "hardware_names": [
+      "iPad2,1",
+      "iPad2,2",
+      "iPad2,3",
+      "iPad2,4"
+    ]
+  },
+  {
+    "device": "iPod touch (4th generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 640.0,
+    "height": 960.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2010-09-01",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 4",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 640.0,
+    "height": 960.0,
+    "ppi": 326.0,
+    "scaleFactor": 2.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2010-06-21",
+    "hardware_names": []
+  },
+  {
+    "device": "iPad (1st generation)",
+    "logicalWidth": 768.0,
+    "logicalHeight": 1024.0,
+    "width": 768.0,
+    "height": 1024.0,
+    "ppi": 132.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 9.7,
+    "releaseDate": "2010-04-03",
+    "hardware_names": []
+  },
+  {
+    "device": "iPod touch (3rd generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2009-09-09",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 3GS",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2009-06-19",
+    "hardware_names": []
+  },
+  {
+    "device": "iPod touch (2nd generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2008-09-09",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone 3G",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2008-07-11",
+    "hardware_names": []
+  },
+  {
+    "device": "iPod touch (1st generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2007-09-05",
+    "hardware_names": []
+  },
+  {
+    "device": "iPhone (1st generation)",
+    "logicalWidth": 320.0,
+    "logicalHeight": 480.0,
+    "width": 320.0,
+    "height": 480.0,
+    "ppi": 163.0,
+    "scaleFactor": 1.0,
+    "screenDiagonal": 3.5,
+    "releaseDate": "2007-06-29",
+    "hardware_names": []
+  }
+]
