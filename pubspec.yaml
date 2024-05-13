@@ -1,13 +1,14 @@
 name: screen_ppi_getter
-description: "A new Flutter plugin project."
+description: "A Flutter plugin for a simple task - retrieve PPI of a display. There is currently no way to do this using Flutter standard library and that is why this package was born"
 version: 0.0.1
-homepage:
+homepage: https://github.com/gasaichandesu/screen_ppi_getter
 
 environment:
-  sdk: '>=3.3.4 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:
+  device_info_plus: ^9.1.1
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
@@ -37,6 +38,8 @@ flutter:
       android:
         package: com.empay.screen_ppi_getter
         pluginClass: ScreenPpiGetterPlugin
+      ios:
+        pluginClass: ScreenPpiGetterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
@@ -48,6 +51,8 @@ flutter:
   #
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
+  assets:
+    - generated/
 
   # To add custom fonts to your plugin package, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
