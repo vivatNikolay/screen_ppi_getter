@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 import 'package:screen_ppi_getter/screen_ppi_getter.dart';
-import 'package:screen_ppi_getter/screen_ppi_getter_method_channel.dart';
-import 'package:screen_ppi_getter/screen_ppi_getter_platform_interface.dart';
+import 'package:screen_ppi_getter/src/screen_ppi_getter_method_channel.dart';
+import 'package:screen_ppi_getter/src/screen_ppi_getter_platform_interface.dart';
 
 class MockScreenPpiGetterPlatform
     with MockPlatformInterfaceMixin
