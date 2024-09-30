@@ -1,5 +1,61 @@
 [
   {
+    "device": "iPhone 16 Pro Max",
+    "logicalWidth": 440.0,
+    "logicalHeight": 956.0,
+    "width": 1320.0,
+    "height": 2868.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.9,
+    "releaseDate": "2024-09-09",
+    "hardware_names": [
+      "iPhone17,2"
+    ]
+  },
+  {
+    "device": "iPhone 16 Pro",
+    "logicalWidth": 402.0,
+    "logicalHeight": 874.0,
+    "width": 1206.0,
+    "height": 2622.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.3,
+    "releaseDate": "2024-09-09",
+    "hardware_names": [
+      "iPhone17,1"
+    ]
+  },
+  {
+    "device": "iPhone 16 Plus",
+    "logicalWidth": 430.0,
+    "logicalHeight": 932.0,
+    "width": 1290.0,
+    "height": 2796.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.7,
+    "releaseDate": "2024-09-09",
+    "hardware_names": [
+      "iPhone17,4"
+    ]
+  },
+  {
+    "device": "iPhone 16",
+    "logicalWidth": 393.0,
+    "logicalHeight": 852.0,
+    "width": 1179.0,
+    "height": 2556.0,
+    "ppi": 460.0,
+    "scaleFactor": 3.0,
+    "screenDiagonal": 6.1,
+    "releaseDate": "2024-09-09",
+    "hardware_names": [
+      "iPhone17,3"
+    ]
+  },
+  {
     "device": "iPhone 15 Pro Max",
     "logicalWidth": 430.0,
     "logicalHeight": 932.0,
