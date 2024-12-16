@@ -47,18 +47,6 @@ class ScreenPpiGetterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware {
     activity = binding.activity
   }
 
-  override fun onDetachedFromActivityForConfigChanges() {
-    TODO("Not yet implemented")
-  }
-
-  override fun onReattachedToActivityForConfigChanges(binding: ActivityPluginBinding) {
-    TODO("Not yet implemented")
-  }
-
-  override fun onDetachedFromActivity() {
-    TODO("Not yet implemented")
-  }
-
   private fun getScreenPpi(): Int {
     val displayMetrics = DisplayMetrics()
     activity.windowManager.defaultDisplay.getMetrics(displayMetrics)
