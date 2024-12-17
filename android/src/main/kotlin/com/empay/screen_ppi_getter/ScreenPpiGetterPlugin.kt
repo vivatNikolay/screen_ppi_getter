@@ -47,6 +47,18 @@ class ScreenPpiGetterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware {
     activity = binding.activity
   }
 
+  override fun onDetachedFromActivityForConfigChanges() {
+    // Pass
+  }
+
+  override fun onReattachedToActivityForConfigChanges(binding: ActivityPluginBinding) {
+    // Pass
+  }
+
+  override fun onDetachedFromActivity() {
+    // Pass
+  }
+
   private fun getScreenPpi(): Int {
     val displayMetrics = DisplayMetrics()
     activity.windowManager.defaultDisplay.getMetrics(displayMetrics)
