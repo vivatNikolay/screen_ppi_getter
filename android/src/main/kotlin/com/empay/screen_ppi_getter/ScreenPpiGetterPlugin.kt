@@ -48,15 +48,15 @@ class ScreenPpiGetterPlugin: FlutterPlugin, MethodCallHandler, ActivityAware {
   }
 
   override fun onDetachedFromActivityForConfigChanges() {
-    TODO("Not yet implemented")
+    // Pass
   }
 
   override fun onReattachedToActivityForConfigChanges(binding: ActivityPluginBinding) {
-    TODO("Not yet implemented")
+    // Pass
   }
 
   override fun onDetachedFromActivity() {
-    TODO("Not yet implemented")
+    // Pass
   }
 
   private fun getScreenPpi(): Int {

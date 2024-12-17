@@ -9,16 +9,11 @@ import 'package:screen_ppi_getter/src/screen_ppi_getter_platform_interface.dart'
 
 class ScreenPpiGetter {
   Future<int?> getScreenPpi() {
-    if (Platform.isAndroid) {
-      return ScreenPpiGetterPlatform.instance.getScreenPpi();
-    }
-
     if (Platform.isIOS) {
       return _getScreenPpiForIos();
     }
 
-    throw UnimplementedError(
-        'Platform ${Platform.operatingSystem} is not supported');
+    return ScreenPpiGetterPlatform.instance.getScreenPpi();
   }
 
   Future<int?> _getScreenPpiForIos() async {
