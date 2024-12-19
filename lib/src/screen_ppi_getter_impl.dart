@@ -35,7 +35,7 @@ class ScreenPpiGetter {
   }
 
   Future<List<IosDevice>> _getAllIosDevices() async {
-    final allDevicesJson = await rootBundle.loadString(Assets.devices);
+    final allDevicesJson = await rootBundle.loadString(Resources.iosDevices);
 
     return (json.decode(allDevicesJson) as List<dynamic>)
         .map((e) => IosDevice.fromJson(e as Map<String, dynamic>))
